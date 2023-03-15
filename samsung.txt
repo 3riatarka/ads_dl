@@ -11,3 +11,7 @@
 0.0.0.0 scs.samsungqbe.com
 0.0.0.0 tvx.adgrx.com
 0.0.0.0 osb-v2.samsungqbe.com
+0.0.0.0 nrdp.prod.cloud.netflix.com
+0.0.0.0 img-resize-cdn-prod.samsungnyc.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 yt3.ggpht.com
