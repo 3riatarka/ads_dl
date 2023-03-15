@@ -1,0 +1,13 @@
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 api-global.netflix.com
+0.0.0.0 uiboot.netflix.com
+0.0.0.0 nrdp51-appboot.netflix.com
+0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 cdn-0.nflximg.com
+0.0.0.0 customerevents.netflix.com
+0.0.0.0 nrdp.nccp.netflix.com
+0.0.0.0 cdn.samsungcloudsolution.com
+0.0.0.0 _xmpp-client._tcp.scs.samsungqbe.com
+0.0.0.0 scs.samsungqbe.com
+0.0.0.0 tvx.adgrx.com
+0.0.0.0 osb-v2.samsungqbe.com
