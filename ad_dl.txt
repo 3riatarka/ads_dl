@@ -1,0 +1,5 @@
+0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 www.googleadservices.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 graph.facebook.com
